@@ -7,7 +7,7 @@ const OtcProductSection = () => {
   const products = [
     {
       id: 1,
-      image: '/src/assets/images/otcproductimg1.png',
+      image: './src/assets/images/otcproductimg1.png',
       title: 'Hype-T',
       subtitle: 'B-complex, Zinc, Lactobacillus Capsules',
       description: 'Lactobacillus actively restores GI Flora, No belching...No regurgitation Better patient compliance',
